@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Gabriela|Open+Sans');
+
+body {
+  background-color: #222;
+  background-image: url("../images/darkness.png");
+  font-family: 'Open Sans', Verdana, sans-serif;
+}
+
+h3 {
+  font-family: Gabriela, Georgia, serif;
+}
+
+.container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 15px;
+  background-color: #F5F5DC;
+}
+
+.jkr{
+  margin: 1em;
+}
+
+.book{
+
+  padding-right: 11px;
+}
+
+.addmargin {
+  margin: 20px
+}
+
+.HP-books,.casual-vacancy,.cursed-child{
+  margin-top: .5em;
+}
+
+.row,.table{
+margin-top: 2.5em;
+}
